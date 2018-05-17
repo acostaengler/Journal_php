@@ -1,3 +1,3 @@
-titel: My Journal
-namn: Isabelle Acosta Engler
-länk till själva repositoriet
+## My Journal
+### Isabelle Acosta Engler
+[Github repo](https://github.com/acostaengler/Journal_php)
